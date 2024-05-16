@@ -1,0 +1,10 @@
+nav {
+    background-color: aqua;
+}
+
+li {
+    display: inline-block;
+    font-size: larger;
+    margin: 10px 10px 10px 10px;
+    width:30%;
+}
